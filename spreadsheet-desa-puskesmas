@@ -1,182 +1,188 @@
 =IF(
 OR(
-C100="Raja";
-C100="Raja Seberang";
+C3="Raja";
+C3="Raja Seberang";
 );
 "Arut Selatan";
 
 IF(
 OR(
-C100="Gandis";
-C100="Kerabu";
-C100="Nanga Mua";
-C100="Pangkut";
-C100="Sukarami";
+C3="Gandis";
+C3="Kerabu";
+C3="Nanga Mua";
+C3="Pangkut";
+C3="Sukarami";
 );
 "Arut Utara";
 
 IF(
 OR(
-C100="Ipuh Bangun Jaya";
-C100="Kondang";
-C100="Palih Baru";
-C100="Suka Makmur";
+C3="Ipuh Bangun Jaya";
+C3="Kondang";
+C3="Palih Baru";
+C3="Suka Makmur";
 );
 "Ipuh Bangun Jaya";
 
 IF(
 OR(
-C100="Amin Jaya";
-C100="Berambai Makmur";
-C100="Karang Mulya";
-C100="Karang Sari";
-C100="Mulya Jadi";
-C100="Natai Kerbau";
-C100="Simpang Berambai";
-C100="Sungai Pakit";
-C100="Sungai Pulau";
+C3="Amin Jaya";
+C3="Berambai Makmur";
+C3="Karang Mulya";
+C3="Karang Sari";
+C3="Mulya Jadi";
+C3="Natai Kerbau";
+C3="Simpang Berambai";
+C3="Sungai Pakit";
+C3="Sungai Pulau";
 );
 "Karang Mulya";
 
 IF(
 OR(
-C100="Kotawaringin Hilir";
-C100="Kotawaringin Hulu";
-C100="Lalang";
-C100="Rungun";
-C100="Sagu Sukamulya";
+C3="Kotawaringin Hilir";
+C3="Kotawaringin Hulu";
+C3="Lalang";
+C3="Rungun";
+C3="Sagu Sukamulya";
 );
 "Kotawaringin Lama";
 
 IF(
 OR(
-C100="Batu Belaman";
-C100="Candi";
-C100="Kubu";
-C100="Kumai Hilir";
-C100="Kumai Hulu";
-C100="Sungai Bedaun";
-C100="Sungai Kapitan";
-C100="Sungai Sekonyer";
-C100="Sungai Tendang";
+C3="Batu Belaman";
+C3="Candi";
+C3="Kubu";
+C3="Kumai Hilir";
+C3="Kumai Hulu";
+C3="Sungai Bedaun";
+C3="Sungai Kapitan";
+C3="Sungai Sekonyer";
+C3="Sungai Tendang";
 );
 "Kumai";
 
 IF(
 OR(
-C100="Kumpai Batu Atas";
-C100="Kumpai Batu Bawah";
-C100="Tanjung Putri";
-C100="Tanjung Terantang";
+C3="Kumpai Batu Atas";
+C3="Kumpai Batu Bawah";
+C3="Tanjung Putri";
+C3="Tanjung Terantang";
 );
 "Kumpai Batu Atas";
 
 IF(
 OR(
-C100="Madurejo";
-C100="Pasir Panjang";
-C100="Sidorejo";
-C100="Mendawai";
-C100="Mendawai Seberang";
+C3="Madurejo";
+C3="Pasir Panjang";
+C3="Sidorejo";
 );
 "Madurejo";
 
 IF(
 OR(
-C100="Baru";
-C100="Medang Sari";
-C100="Natai Baru";
-C100="Natai Raya";
+C3="Mendawai";
+C3="Mendawai Seberang";
+);
+"Mendawai";
+
+IF(
+OR(
+C3="Baru";
+C3="Medang Sari";
+C3="Natai Baru";
+C3="Natai Raya";
 );
 "Natai Palingkau";
 
 IF(
 OR(
-C100="Kadipi Atas";
-C100="Makarti Jaya";
-C100="Pandu Sanjaya";
-C100="Sungai Melawen";
+C3="Kadipi Atas";
+C3="Makarti Jaya";
+C3="Pandu Sanjaya";
+C3="Sungai Melawen";
 );
 "Pandu Sanjaya";
 
 IF(
 OR(
-C100="Lada Mandala Jaya";
-C100="Pangkalan Dewa";
-C100="Pangkalan Tiga";
+C3="Lada Mandala Jaya";
+C3="Pangkalan Dewa";
+C3="Pangkalan Tiga";
 );
 "Pangkalan Lada";
 
 IF(
 OR(
-C100="Babual Baboti";
-C100="Dawak";
-C100="Kinjil";
-C100="Riam Durian";
-C100="Sakabulin";
-C100="Suka Jaya";
-C100="Sumber Mukti";
-C100="Tempayung";
+C3="Babual Baboti";
+C3="Dawak";
+C3="Kinjil";
+C3="Riam Durian";
+C3="Sakabulin";
+C3="Suka Jaya";
+C3="Sumber Mukti";
+C3="Tempayung";
 );
 "Riam Durian";
 
 IF(
 OR(
-C100="Kenambui";
-C100="Sulung";
-C100="Rangda";
-C100="Runtu";
-C100="Umpang";
+C3="Kenambui";
+C3="Sulung";
+C3="Rangda";
+C3="Runtu";
+C3="Umpang";
 );
 "Runtu";
 
 IF(
 OR(
-C100="Panahan";
-C100="Pandau";
-C100="Penyombaan";
-C100="Riam";
-C100="Sambi";
-C100="Sungai Dau";
+C3="Panahan";
+C3="Pandau";
+C3="Penyombaan";
+C3="Riam";
+C3="Sambi";
+C3="Sungai Dau";
 );
 "Sambi";
 
 IF(
 OR(
-C100="Arga Mulya";
-C100="Kebun Agung";
-C100="Marga Mulya";
-C100="Pangkalan Banteng";
-C100="Sungai Hijau";
-C100="Sido Mulyo";
-C100="Sungai Bengkuang";
-C100="Sungai Kuning";
+C3="Arga Mulya";
+C3="Kebun Agung";
+C3="Marga Mulya";
+C3="Pangkalan Banteng";
+C3="Sungai Hijau";
+C3="Sido Mulyo";
+C3="Sungai Bengkuang";
+C3="Sungai Kuning";
 );
 "Semanggang";
 
 IF(
 OR(
-C100="Bumi Harjo";
-C100="Pangkalan Satu";
-C100="Pangkalan Durin";
-C100="Purbasari";
-C100="Sungai Rangit Jaya";
-C100="Sumber Agung";
+C3="Bumi Harjo";
+C3="Pangkalan Satu";
+C3="Pangkalan Durin";
+C3="Purbasari";
+C3="Sungai Rangit Jaya";
+C3="Sumber Agung";
 );
 "Sungai Rangit";
 
 IF(
 OR(
-C100="Keraya";
-C100="Sabuai";
-C100="Sabuai Timur";
-C100="Sungai Bakau";
-C100="Sungai Cabang";
-C100="Teluk Bogam";
-C100="Teluk Pulai";
+C3="Keraya";
+C3="Sabuai";
+C3="Sabuai Timur";
+C3="Sungai Bakau";
+C3="Sungai Cabang";
+C3="Teluk Bogam";
+C3="Teluk Pulai";
 );
 "Teluk Bogam";
 
+)
 )
 )
 )
