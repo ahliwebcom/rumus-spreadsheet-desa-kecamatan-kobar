@@ -3,7 +3,7 @@ Rumus Spreadsheet data desa/kel dalam wilayah kecamatan di kabupaten kotawaringi
 
 ## cara penggunaan
 #### ganti #cell sesuai dengan #cell pada spreadshet anda. 
-#cell pada contoh script adalah C100
+#cell pada contoh script adalah C100 / C3
 
 #### edit #cell referensi sesuai kebutuhan menggunakan aplikasi text editor (notepad, notepad++, gedit, dsb) 
 
